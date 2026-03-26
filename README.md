@@ -69,10 +69,10 @@ Representative outputs:
 
 ### Photovoltaic Simulations
 Representative outputs:
-- Power generation  
+<!-- - Power generation   -->
 - Energy loss  
 
-![lookahead](Figures/PV%20Sim/power.png)
+<!-- ![lookahead](Figures/PV%20Sim/power.png) -->
 
 ![lookahead](Figures/PV%20Sim/energy_loss.png)
 
