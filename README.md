@@ -14,7 +14,7 @@ It accompanies the paper published in *IEEE Transactions on Cybernetics (2026)*.
 ## Repository Structure
 
 ### 🔹 Numerical Simulations
-- Core function implementations  
+- Required function implementations for the KSLCL-DCEE algorithm 
 - `Plot_results` scripts for visualization  
 - Four main scripts corresponding to different case studies  
 
@@ -60,6 +60,7 @@ Representative outputs:
 - Gradient evolution  
 - Parameter estimation  
 - System output  
+
 ![lookahead](Figures/Numerical%20Sim/grad_lksdcee.png)
 
 ![lookahead](Figures/Numerical%20Sim/theta_lksdcee.png)
@@ -70,6 +71,7 @@ Representative outputs:
 Representative outputs:
 - Power generation  
 - Energy loss  
+
 ![lookahead](Figures/PV%20Sim/power.png)
 
 ![lookahead](Figures/PV%20Sim/energy_loss.png)
